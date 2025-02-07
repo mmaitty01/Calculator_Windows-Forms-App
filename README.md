@@ -2,7 +2,7 @@
 This is a simple Windows Forms-based Calculator application developed in C#. It provides basic arithmetic operations and a user-friendly interface.
 <p align = "center"><img src = "https://github.com/user-attachments/assets/4f364d2e-2a86-4553-96f1-47cfdcddc174"/></p>
 
-## Features
+## ✨Features
 
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
 
@@ -12,7 +12,7 @@ This is a simple Windows Forms-based Calculator application developed in C#. It 
 
 - Responsive and intuitive user interface.
 
-## Installation
+## ⚙️Installation
 
 - Clone this repository:   `git clone https://github.com/mmaitty01/Calculator_Windows-Forms-App.git `
 
@@ -20,7 +20,7 @@ This is a simple Windows Forms-based Calculator application developed in C#. It 
 
 - Build and run the application.
 
-## Usage
+## 🚀Usage
 
 - Enter numbers using the provided buttons.
 
@@ -30,7 +30,7 @@ This is a simple Windows Forms-based Calculator application developed in C#. It 
 
 - Use "C" to clear the input.
 
-## Technologies Used
+## 🎨Technologies Used
 
 - C#
 
