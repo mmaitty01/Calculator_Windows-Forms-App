@@ -1,7 +1,6 @@
 # Calculator
 This is a simple Windows Forms-based Calculator application developed in C#. It provides basic arithmetic operations and a user-friendly interface.
-<p align = "center"><img src = "https://github.com/user-attachments/assets/5766d014-7c6c-4336-97ba-cd1cc72fec37"/></p>
-
+<p align = "center"><img src = "https://github.com/user-attachments/assets/4f364d2e-2a86-4553-96f1-47cfdcddc174"/></p>
 
 ## Features
 
@@ -15,7 +14,7 @@ This is a simple Windows Forms-based Calculator application developed in C#. It 
 
 ## Installation
 
-- Clone this repository:   `git clone https://github.com/mmaitty01/-Calculator_Windows-Forms-App.git `
+- Clone this repository:   `git clone https://github.com/mmaitty01/Calculator_Windows-Forms-App.git `
 
 - Open the project in Visual Studio.
 
